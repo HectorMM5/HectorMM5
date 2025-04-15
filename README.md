@@ -1,16 +1,18 @@
-## Hi there 👋
+<a href="https://github.com/HectorMM5/HectorMM5">
+  <img height="200" width="400" align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=HectorMM5&show_icons=true&theme=radical" 
+       alt="GitHub stats"/>
+</a>
 
-<!--
-**HectorMM5/HectorMM5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/HectorMM5/HectorMM5">
+  <img height="180" width="400" align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorMM5&hide_progress=true&theme=radical" 
+       alt="Top languages"/>
+</a>
 
-Here are some ideas to get you started:
+<a href="https://wakatime.com/@HectorMM5">
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api/wakatime?username=HectorMM5&layout=compact&theme=radical&hide_border=true&hide=other" 
+       alt="WakaTime Stats"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
