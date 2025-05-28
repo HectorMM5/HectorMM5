@@ -8,8 +8,6 @@ I'm a CompSci student at the Norwegian University of Science and Technology - ex
 </p>
 
 ## Main Tech Stack
-Tech I am familiar with:
-
 ### Languages
 <p align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
@@ -39,3 +37,14 @@ Tech I am familiar with:
 ### WakaTime
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=HectorMM&layout=compact&theme=dark&hide_border=true&hide=other)](https://wakatime.com/@HectorMM)
+
+### Other Technologies I've Used
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JavaFX (Java)" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/raspberry-pi.png" alt="Raspberry Pi" width="40" height="40"/>
+</p>
+
+
