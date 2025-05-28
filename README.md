@@ -27,7 +27,7 @@ Tech I am familiar with:
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/> 
 </p>
 
-### Tools & Databases
+### Database Management
 <p align="left">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
 </p>
