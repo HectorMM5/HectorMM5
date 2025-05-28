@@ -43,7 +43,6 @@ I'm a CompSci student at the Norwegian University of Science and Technology - ex
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JavaFX (Java)" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/raspberry-pi.png" alt="Raspberry Pi" width="40" height="40"/>
 </p>
 
